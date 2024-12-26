@@ -49,7 +49,14 @@
 </div>
 
 ###
-<a href=>
-
+<div align="center">
+  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12152755828&unique={true|1|on|yes})
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0somens&show_icons=true&theme=synthwave)
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/0somens/" target="_blank">
+</div>
