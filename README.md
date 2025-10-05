@@ -3,7 +3,7 @@
 <p align="center">
   <i>IT engineering student | Data Analyst in progress | Builder of <a href="https://github.com/0somens/sinekys">SINEKYS</a></i>
 </p>
-<h2 align="center"> US flag English (C1) | CL flag Spanish (native)</h2>
+<h2 align="center"> 🇺🇸 English (C1) | 🇨🇱 Spanish (native)</h2>
 
 ---
 
