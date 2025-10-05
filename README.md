@@ -1,4 +1,4 @@
-<h1 align="center">Average data enthusiast!</h1>
+<h1 align="center">Average Data Enthusiast!</h1>
 
 <p align="center">
   <i>IT engineering student | Data Analyst in progress | Builder of <a href="https://github.com/0somens/sinekys">SINEKYS</a></i>
