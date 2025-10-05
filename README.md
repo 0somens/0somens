@@ -3,11 +3,11 @@
 <p align="center">
   <i>IT engineering student | Data Analyst in progress | Builder of <a href="https://github.com/0somens/sinekys">SINEKYS</a></i>
 </p>
-US flag English (C1) | CL flag Spanish (native)
+<h2 align="center"> US flag English (C1) | CL flag Spanish (native)</h2>
 
 ---
 
-<table>
+<table align="center>
   <tr>
     <td>
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=12152755828&unique=true" alt="Spotify" width="400">
