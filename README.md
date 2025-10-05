@@ -3,11 +3,10 @@
 <p align="center">
   <i>IT engineering student | Data Analyst in progress | Builder of <a href="https://github.com/0somens/sinekys">SINEKYS</a></i>
 </p>
-<h2 align="center"> 🇺🇸 English (C1) | 🇨🇱 Spanish (native)</h2>
+<h2 align="center"> English (C1) | Spanish (native)</h2>
 
 ---
-
-<table align="center>
+<table align="center">
   <tr>
     <td>
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=12152755828&unique=true" alt="Spotify" width="400">
@@ -17,7 +16,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ### 📊 About Me
